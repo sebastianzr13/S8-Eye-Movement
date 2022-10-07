@@ -3,7 +3,6 @@
 
   &#xa0;
 
-  <!-- <a href="https://s8eyemovement.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">S8 Eye Movement</h1>
@@ -17,24 +16,21 @@
 
   <img alt="License" src="https://img.shields.io/github/license/sebastianzr13/s8-eye-movement?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/s8-eye-movement?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/s8-eye-movement?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/s8-eye-movement?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
+
 <h4 align="center"> 
-	🚧  S8 Eye Movement 🚀 Under construction...  🚧
+	🚧  Under construction...  🚧
 </h4> 
 
-<hr> -->
+<hr>
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#rocket-roadmap">Roadmap</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
@@ -43,6 +39,7 @@
 
 <br>
 
+
 ## :dart: About ##
 
 Web page with two eyes that follow mouse movement. 
@@ -50,7 +47,12 @@ Web page with two eyes that follow mouse movement.
 Goal: Dynamic experience binding the DOM elements to events.
 
 
-## :rocket: Technologies ##
+## :rocket: Roadmap ##
+
+- Updates in eyes Design 
+- New patterns that will change color as the eyeballs move
+
+## :sparkles: Technologies ##
 
 The following tools were used in this project:
 
